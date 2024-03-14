@@ -6,6 +6,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("actualizacion");
+		System.out.println("actualizacion");
+		System.out.println("actualizacion");
+		System.out.println("actualizacion");
+		System.out.println("actualizacion");
 
 	}
 
